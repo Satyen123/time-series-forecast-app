@@ -31,10 +31,10 @@ This app helps visualize, analyze, and forecast stock prices (e.g., Google stock
 
 ```
 time-series-forecast-app/
-├── streamlit_app.py         # 📌 Main Streamlit web application
-├── GOOG.csv                 # 📊 Sample dataset (Google stock prices)
-├── requirements.txt         # 📦 Required Python packages for deployment
-└── README.md                # 📘 Project documentation and instructions
+├── streamlit_app.py         #  Main Streamlit web application
+├── GOOG.csv                 #  Sample dataset (Google stock prices)
+├── requirements.txt         #  Required Python packages for deployment
+└── README.md                #  Project documentation and instructions
 ```
 
 ---
